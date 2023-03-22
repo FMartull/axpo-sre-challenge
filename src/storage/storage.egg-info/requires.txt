@@ -1,0 +1,9 @@
+flask>=2.0.2
+waitress>=2.0.0
+
+[dev]
+black>=22.1.0
+hupper>=1.10.3
+mypy>=0.931
+pytest>=6.2.5
+types-waitress>=2.0.6
